@@ -27,6 +27,6 @@ Folowing endpoints are used by Alvin to retrieve data from osquery endpoints
  
  # Node List
 
- ![nodelist](/images/node_list.png)
+ ![nodelist](/images/node_list.PNG)
  
  When you start alvin, it will take you to the List of nodes that are currently enrolled 
