@@ -1,5 +1,5 @@
-# Alvin
-
+# Alvin 
+![Alvin](/frontend/src/logo.png)
 Alvin allows you to manage endpoints in your enterprise by using Facebook's open source [osquery](https://osquery.io/) framework. It is build using Node.js, React and MongoDB 
 
 # osquery 
@@ -26,5 +26,5 @@ Folowing endpoints are used by Alvin to retrieve data from osquery endpoints
  
  # Node List
  When you start alvin, it will take you to the List of nodes that are currently enrolled
- ![node_list](images/node_list.png)
+ ![node_list](/images/node_list.png)
  
