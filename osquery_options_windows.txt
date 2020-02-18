@@ -1,0 +1,1 @@
+osqueryd --verbose --ephemeral --disable_database --tls_hostname localhost:4000 --tls_server_certs ..\certs\certs.pem --config_plugin tls --config_tls_endpoint /config --logger_tls_endpoint /logger --logger_plugin tls  --enroll_tls_endpoint /enroll
