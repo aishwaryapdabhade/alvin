@@ -7,9 +7,9 @@ Alvin allows you to manage endpoints in your enterprise by using Facebook's open
 
 Osquery allows you to easily ask questions about your IT Infrastructure. Whether its Windows, Linux or Mac. You can ask anything you like from; intrusion detection, system information, compliance, installed applications, running processes. Osquery empowers you to understand every part of your IT infrastructure. You can read the documentation at https://osquery.readthedocs.io/en/stable/
 
-# Setting up osquery on endpoints
+# Setting up osquery on nodes
 
-Folowing endpoints are used by Alvin to retrieve data from osquery endpoints
+Folowing REST endpoints are used by Alvin to retrieve data from osquery endpoints
 
  url | osquery flag
 -----|-------------------------------
